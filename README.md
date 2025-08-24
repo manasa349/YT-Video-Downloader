@@ -75,7 +75,7 @@ Pull requests are welcome!
 Feel free to fork the project and improve it.
 
 📄 License
-MIT License © 2025 Yaseen Syed
+MIT License © 2025 ManasaYaseen
 
 ---
 
